@@ -1,9 +1,9 @@
 {
-  "name": "horizon-theme-vscode",
+  "name": "horizon-theme-vscode-default-token-colors",
   "version": "1.8.1",
   "author": "Jonathan Olaleye <j.olaleye.o@gmail.com>",
-  "displayName": "Horizon Theme",
-  "description": "A beautifully warm dark theme for Visual Studio Code",
+  "displayName": "Horizon Theme with default token colors",
+  "description": "A beautifully warm dark theme for Visual Studio Code. Now with default token colors!",
   "publisher": "jolaleye",
   "license": "MIT",
   "icon": "logo.png",
@@ -26,25 +26,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Horizon",
+        "label": "Horizon (default token colors)",
         "uiTheme": "vs-dark",
-        "path": "./themes/horizon.json"
-      },
-      {
-        "label": "Horizon Italic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/horizon-italic.json"
-      },
-      {
-        "label": "Horizon Bold",
-        "uiTheme": "vs-dark",
-        "path": "./themes/horizon-bold.json"
+        "path": "./themes/horizon-default-token-colors.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jolaleye/horizon-theme-vscode"
+    "url": "https://github.com/piousdeer/horizon-theme-vscode"
   },
   "homepage": "https://horizontheme.com/",
   "bugs": {

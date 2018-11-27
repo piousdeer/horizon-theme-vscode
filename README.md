@@ -6,6 +6,9 @@
 
 ---
 
+## Fork description
+I kinda got used to default VSCode token colors. Switching them makes me unable to navigate in my code. This fork combines Horizon Theme and those colors.
+
 <p align="center">
   <!-- marketplace version -->
   <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
