@@ -1,46 +1,43 @@
 <p align="center">
   <a href="https://horizontheme.com/">
-    <img alt="horizon banner" src="https://i.imgur.com/pwBUCSe.png">
+    <img alt="horizon banner" src="https://i.imgur.com/bbznMuY.png">
   </a>
 </p>
 
 ---
 
-## Fork description
-I kinda got used to default VSCode token colors. Switching them makes me unable to navigate in my code. This fork combines Horizon Theme and those colors.
+This is a fork of [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) that combines its UI colors with Dark+ (the default theme) token colors.
+
+---
 
 <p align="center">
   <!-- marketplace version -->
   <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
-    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/jolaleye.horizon-theme-vscode.svg?maxAge=3600&style=for-the-badge&colorA=1C1E26&colorB=FAB38E">
+    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/piousdeer.horizon-theme-vscode-default-token-colors.svg?maxAge=3600&style=for-the-badge&colorA=1C1E26&colorB=FAB38E">
   </a>
   <!-- downloads -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
-    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/jolaleye.horizon-theme-vscode.svg?maxAge=3600&style=for-the-badge&colorA=1C1E26&colorB=FAB38E">
+  <a href="https://marketplace.visualstudio.com/items?itemName=piousdeer.horizon-theme-vscode-default-token-colors">
+    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/piousdeer.horizon-theme-vscode-default-token-colors.svg?maxAge=3600&style=for-the-badge&colorA=1C1E26&colorB=FAB38E">
   </a>
   <!-- rating -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode">
-    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/jolaleye.horizon-theme-vscode.svg?maxAge=86400&style=for-the-badge&colorA=1C1E26&colorB=FAB38E">
-  </a>
-  <!-- donate -->
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=8U6XT98BHG63E&item_name=Support+Horizon+-+Thank+You%21&currency_code=USD&source=url">
-    <img alt="donate" src="https://img.shields.io/badge/support-❤_$-FAB38E.svg?style=for-the-badge&colorA=1C1E26">
+  <a href="https://marketplace.visualstudio.com/items?itemName=piousdeer.horizon-theme-vscode-default-token-colors">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/piousdeer.horizon-theme-vscode-default-token-colors.svg?maxAge=86400&style=for-the-badge&colorA=1C1E26&colorB=FAB38E">
   </a>
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://i.imgur.com/y0gi1ez.png" width="90%">
+  <img alt="preview" src="https://i.imgur.com/8IqkjhH.png" width="90%">
 </p>
 
-> The preview above shows the _Horizon_ theme with the _Roboto Mono_ font. Horizon also includes italic and bold variants.
+> The preview above shows the _Horizon Default_ theme with the _Dank Mono_ font.
 
 ## Installation
 
 1. Open the **Extensions** sidebar in VS Code
-2. Search for `Horizon Theme`
+2. Search for `Horizon Theme Default`
 3. Click **Install**
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
-5. Select **Preferences: Color Theme** and choose a Horizon variant.
+5. Select **Preferences: Color Theme** and choose `Horizon Default`.
 6. Enjoy! 🎉 Also, check out some of the personalization options below...
 
 > Visit the [Horizon Homepage](https://horizontheme.com/) for some nice previews :)
@@ -111,30 +108,6 @@ Always try your best to make a positive impact on this project and its community
 Read the contributing guide to learn about how you can report issues and contribute to changes.
 
 ## Color Reference
-
-### Syntax Colors
-
-> **Note:** All syntax colors have 90% opacity so that they're easier on the eyes :)
-
-|                            Color                            | Usage                                                                    |
-| :---------------------------------------------------------: | ------------------------------------------------------------------------ |
-| ![](https://via.placeholder.com/10/B877DB?text=+) `#B877DB` | Keywords, template literals & embedded punctuation (e.g. `${}` or `{}` ) |
-| ![](https://via.placeholder.com/10/E95678?text=+) `#E95678` | Variables, property names, tags, markup headings                         |
-| ![](https://via.placeholder.com/10/25B0BC?text=+) `#25B0BC` | Functions, escape characters, CSS #ids                                   |
-| ![](https://via.placeholder.com/10/F09483?text=+) `#F09483` | Constants, regex, attributes, units, CSS .classes                        |
-| ![](https://via.placeholder.com/10/FAB795?text=+) `#FAB795` | Strings, pseudo CSS, inherited classes, markup links                     |
-| ![](https://via.placeholder.com/10/FAC29A?text=+) `#FAC29A` | Special keywords, classes                                                |
-
-### Terminal Colors
-
-|  Color  |                           Normal                            |                           Bright                            |
-| :-----: | :---------------------------------------------------------: | :---------------------------------------------------------: |
-|  Blue   | ![](https://via.placeholder.com/10/26BBD9?text=+) `#26BBD9` | ![](https://via.placeholder.com/10/3FC4DE?text=+) `#3FC4DE` |
-|  Cyan   | ![](https://via.placeholder.com/10/59E1E3?text=+) `#59E1E3` | ![](https://via.placeholder.com/10/6BE4E6?text=+) `#6BE4E6` |
-|  Green  | ![](https://via.placeholder.com/10/29D398?text=+) `#29D398` | ![](https://via.placeholder.com/10/3FDAA4?text=+) `#3FDAA4` |
-| Magenta | ![](https://via.placeholder.com/10/EE64AC?text=+) `#EE64AC` | ![](https://via.placeholder.com/10/F075B5?text=+) `#F075B5` |
-|   Red   | ![](https://via.placeholder.com/10/E95678?text=+) `#E95678` | ![](https://via.placeholder.com/10/EC6A88?text=+) `#EC6A88` |
-| Yellow  | ![](https://via.placeholder.com/10/FAB795?text=+) `#FAB795` | ![](https://via.placeholder.com/10/FBC3A7?text=+) `#FBC3A7` |
 
 ### UI Colors
 
