@@ -4,7 +4,7 @@
   "author": "Jonathan Olaleye <j.olaleye.o@gmail.com>",
   "displayName": "Horizon Theme Default",
   "description": "A beautifully warm dark theme for Visual Studio Code with default token colors",
-  "publisher": "jolaleye",
+  "publisher": "piousdeer",
   "license": "MIT",
   "icon": "logo.png",
   "engines": {
