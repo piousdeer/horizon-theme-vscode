@@ -2,8 +2,8 @@
   "name": "horizon-theme-vscode-default-token-colors",
   "version": "1.8.1",
   "author": "Jonathan Olaleye <j.olaleye.o@gmail.com>",
-  "displayName": "Horizon Theme with default token colors",
-  "description": "A beautifully warm dark theme for Visual Studio Code. Now with default token colors!",
+  "displayName": "Horizon Theme Default",
+  "description": "A beautifully warm dark theme for Visual Studio Code with default token colors",
   "publisher": "jolaleye",
   "license": "MIT",
   "icon": "logo.png",
@@ -26,9 +26,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Horizon (default token colors)",
+        "label": "Horizon Default",
         "uiTheme": "vs-dark",
-        "path": "./themes/horizon-default-token-colors.json"
+        "path": "./themes/horizon-default.json"
       }
     ]
   },
